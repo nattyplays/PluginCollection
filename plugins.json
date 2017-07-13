@@ -1082,5 +1082,13 @@
 		"jarName": "FastAsyncWorldEdit.jar",
 		"configName": "~",
 		"freePlugin":true
+	},
+	{
+               "name": "PermissionsEx",
+               "desc": "Add modification",
+               "jarName": "PermissionsEx.jar",
+               "configName": "PermissionsEx",
+               
 	}
+
 ]
